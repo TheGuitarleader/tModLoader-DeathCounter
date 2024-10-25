@@ -1,0 +1,1 @@
+Automatically keeps tracks of the number of deaths of a character. Stores files as .txt files that then can be used in OBS for on screen death counts or could easily tie into a chatbot or something. 
